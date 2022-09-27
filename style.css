@@ -19,6 +19,7 @@ br {
 }
 h2 {
   background: gray;
+  text-align: center;
   color: beige;
   padding-left:10px;
   margin-right:100px
