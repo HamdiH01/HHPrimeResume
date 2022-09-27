@@ -11,6 +11,9 @@ h1 {
 img {
   width: 50%
 }
+body {
+  font-family: Arial;
+}
 br {
   color:gray 
 }
