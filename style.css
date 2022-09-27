@@ -1,0 +1,31 @@
+body {
+  background-color: lavender
+}
+h1 {
+  font-size: 50px;
+  font-family: cursive;
+  border: 1px solid lavender;
+    
+  margin-left:100px
+}
+img {
+  width: 80%
+}
+br {
+  color:gray 
+}
+h2 {
+  background: gray;
+  color: beige;
+  padding-left:10px;
+  margin-right:100px
+}
+td {
+    border: solid 2px gray;
+}
+h5 {
+  background: black;
+    color: White;
+  border: 1px solid black;
+  padding-left: 10px
+}
